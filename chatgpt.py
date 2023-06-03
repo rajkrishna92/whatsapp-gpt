@@ -12,7 +12,7 @@ from langchain.schema import (
 )
 
 
-openai_api_key = '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'
+openai_api_key = 'xxxxxxx'
 chat = ChatOpenAI(temperature=0.7,openai_api_key=openai_api_key,verbose=True)
 
 
